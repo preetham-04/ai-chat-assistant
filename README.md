@@ -22,7 +22,7 @@ Users can toggle between these models using a simple dropdown interface.
 
 ## 📦 Installation
 
-### 1. Clone the repo
+### Clone the repo
 
 ```bash
 git clone https://code.swecha.org/Preetham04/ai-chat-assistant.git
